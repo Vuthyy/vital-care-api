@@ -75,8 +75,8 @@ spring:
 ## ▶️ Run the Application
 
 ```bash
-mvn clean install
-mvn spring-boot:run
+./gralde clean install
+./gradlew bootRun
 ```
 
 Server runs at:
